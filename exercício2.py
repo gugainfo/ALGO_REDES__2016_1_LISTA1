@@ -1,7 +1,7 @@
-a = "Eu tenho um sonho." 
+a = '"Eu tenho um sonho.' 
 b = "O sonho de ver meus filhos julgados por " 
-c = "sua personalidade, não pela cor de sua pele."
-d = "Martin Luther King Júnior"
+c = 'sua personalidade, não pela cor de sua pele."'
+d = "'Martin Luther King Júnior'"
 
 print(a.upper())
 print(b.upper())
@@ -17,3 +17,5 @@ print(a.title())
 print(b.title())
 print(c.title())
 print(d.title())
+print("By: GugaInfo")
+
